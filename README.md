@@ -1,2 +1,2 @@
-# OIBGRIP_3
+# OIB-SIP_3
 Temperature Converter Website
